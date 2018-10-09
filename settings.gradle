@@ -1,0 +1,1 @@
+include ':app', ':TelephonyCommon', ':SIP', ':PhoneCommon', ':TelephonyFramework'
