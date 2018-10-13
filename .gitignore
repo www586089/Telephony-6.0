@@ -23,3 +23,10 @@
 
 /TelephonyFramework/build
 /TelephonyFramework/*.iml
+
+
+/TelephonyBaseFramework/build
+/TelephonyBaseFramework/*.iml
+
+/TelecommFramework/build
+/TelecommFramework/*.iml

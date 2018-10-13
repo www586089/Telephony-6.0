@@ -1,1 +1,1 @@
-include ':app', ':TelephonyCommon', ':SIP', ':PhoneCommon', ':TelephonyFramework'
+include ':app', ':TelephonyCommon', ':SIP', ':PhoneCommon', ':TelephonyFramework', ':TelecommFramework', ':Telecomm', ':TelephonyBaseFramework'
