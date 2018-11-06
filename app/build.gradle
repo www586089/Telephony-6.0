@@ -27,4 +27,5 @@ dependencies {
     implementation project(':PhoneCommon')
     implementation project(':SIP')
     implementation project(':TelephonyCommon')
+    implementation project(':TelephonyFramework')
 }
